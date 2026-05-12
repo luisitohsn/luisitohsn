@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 <!--
 **luisitohsn/luisitohsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 ## Contato
 
-[![Icone Linkedin](https://img.icons8.com/?size=50&id=8808&format=png&color=000000)](https://www.linkedin.com/in/lu%C3%ADs-henrique-dev/)
+[![Icone Linkedin](https://img.icons8.com/?size=50&id=447&format=png&color=000000)](https://www.linkedin.com/in/lu%C3%ADs-henrique-dev/)
